@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T10:24:36.851Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="5JwdSitQ_BxVWLGROEIz" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-10T11:14:43.882Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="9O324mC1Y_WTIrTUXrCb" version="14.6.11" type="github">
   <diagram id="FkCjxGUuJwoFStEqhKMb" name="Page-1">
     <mxGraphModel dx="1350" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,13 +130,13 @@
             <mxPoint x="540" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8TT4Gy3hwxCLP06xpGCM-52" value="Privilage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="8TT4Gy3hwxCLP06xpGCM-52" value="Privilege" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="500" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8TT4Gy3hwxCLP06xpGCM-53" value="Configuration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="500" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Dppp5Z8Dks9AF1bNeP1h-1" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 2;" edge="1" parent="1">
+        <mxCell id="Dppp5Z8Dks9AF1bNeP1h-1" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="380" as="sourcePoint" />
             <mxPoint x="410" y="280" as="targetPoint" />
