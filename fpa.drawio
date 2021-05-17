@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-17T08:32:25.266Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="IRe4zq93XhVJ20rgeAd4" version="14.6.11" type="github">
+<mxfile modified="2021-05-17T10:45:38.454Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="5-OCoUzv7Jlw23g7xYat" version="14.6.11" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1350" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -189,6 +189,24 @@
         </mxCell>
         <mxCell id="44_QHsM1Jb9pdZEY4SZs-271" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="775" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="44_QHsM1Jb9pdZEY4SZs-272" value="View Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="195" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44_QHsM1Jb9pdZEY4SZs-273" value="Solution API Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="390" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44_QHsM1Jb9pdZEY4SZs-274" value="Platform API Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="605" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44_QHsM1Jb9pdZEY4SZs-275" value="Storage Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="805" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44_QHsM1Jb9pdZEY4SZs-276" value="Datastore" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="820" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44_QHsM1Jb9pdZEY4SZs-277" value="Cloudstore" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="807" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
