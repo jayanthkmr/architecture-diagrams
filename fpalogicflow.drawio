@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T05:45:05.629Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="g99U5VdWY35Si4-ZUvJw" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-21T05:48:48.666Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="DHiNEyUwhLOxlhzH1Lwl" version="14.6.13" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1350" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -82,13 +82,13 @@
         <mxCell id="H9c6U2pvoDiHtEuei6BZ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="H9c6U2pvoDiHtEuei6BZ-68" target="H9c6U2pvoDiHtEuei6BZ-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H9c6U2pvoDiHtEuei6BZ-68" value="Source request to &lt;br&gt;Platform services" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="H9c6U2pvoDiHtEuei6BZ-68" value="Source pending &lt;br&gt;requests to &lt;br&gt;Platform services" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="251" y="1350" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H9c6U2pvoDiHtEuei6BZ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.905;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="H9c6U2pvoDiHtEuei6BZ-70" target="H9c6U2pvoDiHtEuei6BZ-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H9c6U2pvoDiHtEuei6BZ-70" value="persist response &lt;br&gt;to storage&lt;br&gt;as event" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="H9c6U2pvoDiHtEuei6BZ-70" value="persist responses&lt;br&gt;to storage&lt;br&gt;as event" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="250.5" y="1480" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H9c6U2pvoDiHtEuei6BZ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.905;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.095;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H9c6U2pvoDiHtEuei6BZ-72" target="H9c6U2pvoDiHtEuei6BZ-76">
