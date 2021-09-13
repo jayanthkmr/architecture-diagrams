@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T07:09:06.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="7DOXobL_4NlYgoI9y7qu" version="15.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T07:21:09.976Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="svo5wJtLlnFwz2nwgrQS" version="15.2.1" type="github">
   <diagram id="g2f6WKCkMucgUdiZLQqU" name="Page-1">
-    <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,6 +42,18 @@
             <mxPoint x="420" y="380" as="sourcePoint" />
             <mxPoint x="550" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wTMKEH6NHDidl25fFrwc-15" value="Create/Update &lt;br&gt;User Participant" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="215" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wTMKEH6NHDidl25fFrwc-16" value="Create roles, &lt;br&gt;policies, &lt;br&gt;permissions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="295" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wTMKEH6NHDidl25fFrwc-18" value="Onboard Users &amp;amp;&lt;br&gt;Manage Org, &lt;br&gt;Function, &lt;br&gt;Designations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="290" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wTMKEH6NHDidl25fFrwc-19" value="Define resources &amp;amp; scopes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="220" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
