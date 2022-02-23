@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T10:43:37.640Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ZVlcQuGo-eswO_XBsXUQ" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T10:47:35.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="CfReHm1-D2rmFwCgMTYh" version="16.2.7" type="github">
   <diagram id="ATJYBj6WP4CI4dVFHcZn" name="Page-1">
     <mxGraphModel dx="946" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="440" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQAowRjpDvLTcop4oPch-9" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=89;" vertex="1" parent="1">
-          <mxGeometry x="160" y="29.65" width="60" height="120" as="geometry" />
+          <mxGeometry x="169.82" y="19.65" width="60" height="139.65" as="geometry" />
         </mxCell>
         <mxCell id="QQAowRjpDvLTcop4oPch-10" value="Kafka/SNS/Kinesis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="152" y="75" width="60" height="30" as="geometry" />
@@ -56,10 +56,10 @@
           <mxGeometry x="440" y="1005" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQAowRjpDvLTcop4oPch-20" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=89;" vertex="1" parent="1">
-          <mxGeometry x="146" y="660.35" width="60" height="120" as="geometry" />
+          <mxGeometry x="158.63" y="647.5" width="60" height="145.26" as="geometry" />
         </mxCell>
-        <mxCell id="QQAowRjpDvLTcop4oPch-21" value="Kafka" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="138" y="705.7" width="88" height="30" as="geometry" />
+        <mxCell id="QQAowRjpDvLTcop4oPch-21" value="&lt;span&gt;Kafka/SNS/Kinesis&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="138" y="705.7" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQAowRjpDvLTcop4oPch-22" value="API" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="690.35" width="100" height="60" as="geometry" />
