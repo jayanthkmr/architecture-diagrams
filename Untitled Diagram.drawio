@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T17:21:12.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="noCPNlJEaqe3nTHUl040" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T17:22:10.708Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="pu-YL3bAkXY7fWLfDI7v" version="20.8.16" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
     <mxGraphModel dx="1735" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="21533" value="" style="ellipse;fillColor=#e85642;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="489.5" y="18.5" width="500" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="21534" value="Consistency" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="21534" value="Consistency&lt;br&gt;All nodes in the system &lt;br&gt;see the same data at &lt;br&gt;the same time." style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="299.5" y="228.5" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="21535" value="Availability" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
