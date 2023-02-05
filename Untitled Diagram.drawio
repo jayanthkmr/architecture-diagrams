@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T17:23:04.675Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qx9a-v-Jy_QA_5I1oSpI" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T17:23:29.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="EcnIZLPjJdWjlb1JDXqa" version="20.8.16" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
     <mxGraphModel dx="1735" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="21535" value="Availability&lt;br&gt;Every request to the system &lt;br&gt;receives a response" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="699.5" y="228.5" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="21536" value="Partition Tolerance" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="21536" value="Partition Tolerance&lt;br&gt;The system continues to function &lt;br&gt;despite network failures" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="499.5" y="558.5" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="21537" value="CA" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
