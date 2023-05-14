@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T13:59:03.604Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="kyLWf2XqUU3r9PLRJael" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-14T14:30:35.225Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="xko9MW0Vje60PAUkTfwo" version="21.3.0" type="github">
   <diagram name="Page-1" id="3T8mIMUyTgIuzdXL4rhK">
-    <mxGraphModel dx="1804" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2122" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="04vwQ_vdk3KXBg4iKfQk-4" value="Partition #1&lt;br&gt;key from &#39;A&#39; to &#39;E&#39;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="47.5" y="725" width="95" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="04vwQ_vdk3KXBg4iKfQk-9" value="key: customer_email" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="04vwQ_vdk3KXBg4iKfQk-9" value="key: customer_name" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="195" y="580" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="04vwQ_vdk3KXBg4iKfQk-10" value="Partition #2&lt;br&gt;key from &#39;F&#39; to &#39;J&#39;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -58,7 +58,7 @@
         <mxCell id="04vwQ_vdk3KXBg4iKfQk-44" value="Partition #1&lt;br&gt;hash 1-100&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-442.5" y="725" width="95" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="04vwQ_vdk3KXBg4iKfQk-45" value="hash(key): #(customer_email)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="04vwQ_vdk3KXBg4iKfQk-45" value="hash(key): #(customer_name)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-295" y="580" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="04vwQ_vdk3KXBg4iKfQk-46" value="Partition #2&lt;br&gt;hash 101-200" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
