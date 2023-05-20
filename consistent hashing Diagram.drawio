@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T14:02:37.868Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-ZQ5szbIDoAasaQ-1bPy" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-20T14:03:09.094Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GfLWcJKph5Tc3MyvxHJq" version="21.3.0" type="github">
   <diagram name="Page-1" id="Dt9OIkEnnsKyyqg8xf8L">
     <mxGraphModel dx="954" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="GSF9tTFinqTFbUqn0Sl5-41" value="0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="400" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GSF9tTFinqTFbUqn0Sl5-42" value="Consistent Hashing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="510" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
