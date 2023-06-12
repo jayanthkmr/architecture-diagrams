@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T08:53:40.441Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LRx40q_V_POpUw3mLPva" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T09:04:15.419Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OL48qW8XLJxLMl9Ra5f4" version="21.3.7" type="github">
   <diagram name="Page-1" id="Oi7OsTwLrwf_6MCiZPdt">
     <mxGraphModel dx="954" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -194,7 +194,7 @@
           <mxGeometry x="830" y="55" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dj_3N6z_v6fSzwfQcfUv-112" value="Write-through" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="120" width="89.5" height="30" as="geometry" />
+          <mxGeometry x="635.25" y="110" width="89.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dj_3N6z_v6fSzwfQcfUv-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dj_3N6z_v6fSzwfQcfUv-114">
           <mxGeometry relative="1" as="geometry">
@@ -213,14 +213,20 @@
         <mxCell id="dj_3N6z_v6fSzwfQcfUv-120" value="App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="465" y="217" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dj_3N6z_v6fSzwfQcfUv-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="dj_3N6z_v6fSzwfQcfUv-121" target="dj_3N6z_v6fSzwfQcfUv-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dj_3N6z_v6fSzwfQcfUv-121" value="Datastore" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="655" y="217" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dj_3N6z_v6fSzwfQcfUv-122" value="Write-through" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="665" y="282" width="89.5" height="30" as="geometry" />
+          <mxGeometry x="635.25" y="280" width="89.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dj_3N6z_v6fSzwfQcfUv-123" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#1A1A1A;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cache_node;" vertex="1" parent="1">
           <mxGeometry x="820" y="202" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dj_3N6z_v6fSzwfQcfUv-127" value="2. Async write to cache" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="715" y="217" width="98" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
