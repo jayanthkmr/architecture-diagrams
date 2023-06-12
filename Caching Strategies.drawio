@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T08:47:31.629Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UrFaC7Pru9tzeg0oKlaf" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T08:48:50.957Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9r-8Qr9gQBKPU8nvxZ9t" version="21.3.7" type="github">
   <diagram name="Page-1" id="Oi7OsTwLrwf_6MCiZPdt">
     <mxGraphModel dx="954" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -162,6 +162,9 @@
         </mxCell>
         <mxCell id="dj_3N6z_v6fSzwfQcfUv-95" value="Refresh-ahead" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="185.25" y="412" width="89.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dj_3N6z_v6fSzwfQcfUv-96" value="Read-intensive Application Caching Strategies" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="460" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
