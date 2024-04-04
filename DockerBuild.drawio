@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T08:49:55.964Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="boguUXOGHrwP-Y_pjGhd" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-04T08:59:04.419Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="f2AelQW0uKdRHzFN0u_H" version="24.0.1" type="github">
   <diagram name="Page-1" id="tIl8gSgta6vUrKM4jG2T">
     <mxGraphModel dx="954" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZR7Ugns2d6yWxuIINC6V-18" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20%26amp%3Bquot%3BCourier%20New%26amp%3Bquot%3B%2C%20monospace%3B%20text-align%3A%20left%3B%20white-space-collapse%3A%20preserve%3B%26quot%3B%26gt%3BFROM%20python%3A3.9-slim%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22640%22%20y%3D%22230%22%20width%3D%22220%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="220" width="300" height="270" as="geometry" />
+        </mxCell>
         <mxCell id="ZR7Ugns2d6yWxuIINC6V-5" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="140" y="220" width="280" height="270" as="geometry" />
         </mxCell>
@@ -21,9 +24,39 @@
         </mxCell>
         <mxCell id="ZR7Ugns2d6yWxuIINC6V-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="385" as="sourcePoint" />
-            <mxPoint x="520" y="385" as="targetPoint" />
+            <mxPoint x="430" y="385" as="sourcePoint" />
+            <mxPoint x="480" y="385" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZR7Ugns2d6yWxuIINC6V-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="490" y="360" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR7Ugns2d6yWxuIINC6V-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#000000;shape=mxgraph.azure.automation;pointerEvents=1;" vertex="1" parent="ZR7Ugns2d6yWxuIINC6V-10">
+          <mxGeometry width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR7Ugns2d6yWxuIINC6V-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-docker-128.png" vertex="1" parent="ZR7Ugns2d6yWxuIINC6V-10">
+          <mxGeometry x="30" y="20" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR7Ugns2d6yWxuIINC6V-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="569" y="389" as="sourcePoint" />
+            <mxPoint x="619" y="389" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZR7Ugns2d6yWxuIINC6V-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="880" y="176" width="82" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR7Ugns2d6yWxuIINC6V-19" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.container_1;" vertex="1" parent="ZR7Ugns2d6yWxuIINC6V-21">
+          <mxGeometry width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR7Ugns2d6yWxuIINC6V-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-docker-128.png" vertex="1" parent="ZR7Ugns2d6yWxuIINC6V-21">
+          <mxGeometry x="32" y="19" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR7Ugns2d6yWxuIINC6V-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e2dfdf;" vertex="1" parent="1">
+          <mxGeometry x="650" y="230" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZR7Ugns2d6yWxuIINC6V-25" value="&lt;span style=&quot;font-family: &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space-collapse: preserve;&quot;&gt;FROM python:3.9-slim&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="230" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
