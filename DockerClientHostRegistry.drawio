@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T13:46:02.900Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="M7S3Mlbv_ZmaBSDxER_g" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-04T13:48:35.912Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Y7TCNJ2LUCHclYFv9HIp" version="24.2.2" type="github">
   <diagram name="Page-1" id="fEaSrElfvcWs7XYuGYCs">
     <mxGraphModel dx="954" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="823" pageHeight="365" math="0" shadow="0">
       <root>
@@ -22,10 +22,10 @@
         <mxCell id="GY6aXAsfJdgFhlDoT_iA-6" value="Docker Registry" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="60" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GY6aXAsfJdgFhlDoT_iA-7" value="docker build" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GY6aXAsfJdgFhlDoT_iA-7" value="docker build" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
           <mxGeometry x="125" y="110" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GY6aXAsfJdgFhlDoT_iA-8" value="docker pull" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GY6aXAsfJdgFhlDoT_iA-8" value="docker pull" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="125" y="155" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GY6aXAsfJdgFhlDoT_iA-9" value="docker run" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -133,6 +133,33 @@
             <mxPoint x="500" y="330" as="sourcePoint" />
             <mxPoint x="550" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GY6aXAsfJdgFhlDoT_iA-48" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="290" as="sourcePoint" />
+            <mxPoint x="721.06" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GY6aXAsfJdgFhlDoT_iA-49" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="304.5" as="sourcePoint" />
+            <mxPoint x="724" y="304.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GY6aXAsfJdgFhlDoT_iA-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="324.5" as="sourcePoint" />
+            <mxPoint x="724" y="324.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GY6aXAsfJdgFhlDoT_iA-51" value="build" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="274" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GY6aXAsfJdgFhlDoT_iA-53" value="pull" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GY6aXAsfJdgFhlDoT_iA-54" value="run" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
