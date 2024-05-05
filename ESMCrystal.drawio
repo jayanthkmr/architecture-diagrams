@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T16:41:55.241Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="I-YQ7qrzz1u2O6reEs60" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-05T16:42:06.725Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Ec6hE1W94hYq05bn6Fqp" version="24.2.7" type="github">
   <diagram name="Page-1" id="rYPoHD8K6RKQqNjlHeFC">
     <mxGraphModel dx="1777" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="823" pageHeight="365" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ocV6jF5MNBLFsmdlu40--27" value="Protein Sequence Input" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#B1DDF0;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="136" width="180" height="60" as="geometry" />
+          <mxGeometry x="-370" y="135" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocV6jF5MNBLFsmdlu40--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocV6jF5MNBLFsmdlu40--28" target="ocV6jF5MNBLFsmdlu40--20">
           <mxGeometry relative="1" as="geometry" />
