@@ -1,15 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T16:38:47.403Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="rLOh4bJ02hIBVI5NC5RG" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-05T16:41:55.241Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="I-YQ7qrzz1u2O6reEs60" version="24.2.7" type="github">
   <diagram name="Page-1" id="rYPoHD8K6RKQqNjlHeFC">
-    <mxGraphModel dx="954" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="823" pageHeight="365" math="0" shadow="0">
+    <mxGraphModel dx="1777" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="823" pageHeight="365" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ocV6jF5MNBLFsmdlu40--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocV6jF5MNBLFsmdlu40--5" target="ocV6jF5MNBLFsmdlu40--20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ocV6jF5MNBLFsmdlu40--5" value="Meta ESMFold2 (Base Model)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="10" y="125" width="180" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="ocV6jF5MNBLFsmdlu40--9" value="Transfer Learning" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="130" width="60" height="30" as="geometry" />
         </mxCell>
@@ -49,6 +43,18 @@
         </mxCell>
         <mxCell id="ocV6jF5MNBLFsmdlu40--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.9;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ocV6jF5MNBLFsmdlu40--14" target="ocV6jF5MNBLFsmdlu40--20">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocV6jF5MNBLFsmdlu40--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ocV6jF5MNBLFsmdlu40--27" target="ocV6jF5MNBLFsmdlu40--28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocV6jF5MNBLFsmdlu40--27" value="Protein Sequence Input" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#B1DDF0;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="136" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocV6jF5MNBLFsmdlu40--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocV6jF5MNBLFsmdlu40--28" target="ocV6jF5MNBLFsmdlu40--20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocV6jF5MNBLFsmdlu40--28" value="ESMFold2 Base Model&lt;br&gt;esm2_t6_8M_UR50D/esm2_t12_35M_UR50D" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFBB00;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="130" width="280" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
