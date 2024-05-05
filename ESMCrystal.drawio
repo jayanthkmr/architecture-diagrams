@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T16:27:01.259Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="G5dhE2tIGU08Gy92Rkx4" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-05T16:36:59.752Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Bb3btS6OYl-s_9ySrS8S" version="24.2.7" type="github">
   <diagram name="Page-1" id="rYPoHD8K6RKQqNjlHeFC">
     <mxGraphModel dx="954" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="823" pageHeight="365" math="0" shadow="0">
       <root>
@@ -10,17 +10,43 @@
         <mxCell id="ocV6jF5MNBLFsmdlu40--5" value="Meta ESMFold2 (Base Model)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="10" y="120" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ocV6jF5MNBLFsmdlu40--6" value="Protein Crystallization Prediction Model (Fine-Tuned)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="310" y="120" width="240" height="80" as="geometry" />
+        <mxCell id="ocV6jF5MNBLFsmdlu40--6" value="Transfer Learning Layers&lt;br&gt;Fine-tuned on Protein Data" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="352" y="120" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ocV6jF5MNBLFsmdlu40--7" value="Predictive Model Output: Protein Crystallization Predicted" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="667" y="130" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ocV6jF5MNBLFsmdlu40--8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;" edge="1" parent="1" source="ocV6jF5MNBLFsmdlu40--6" target="ocV6jF5MNBLFsmdlu40--7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ocV6jF5MNBLFsmdlu40--8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;" edge="1" parent="1" source="ocV6jF5MNBLFsmdlu40--6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="667" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ocV6jF5MNBLFsmdlu40--9" value="Transfer Learning" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ocV6jF5MNBLFsmdlu40--10" value="Output Layer Predictions&#xa;Label 0: Non-crystallizable&#xa;Label 1: Crystallizable" style="text;html=1;strokeColor=none;fillColor=none;spacingTop=-5;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="130" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ocV6jF5MNBLFsmdlu40--11" value="DeepCrystal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ocV6jF5MNBLFsmdlu40--13" value="SP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="465" y="240" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ocV6jF5MNBLFsmdlu40--14" value="TR" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="240" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ocV6jF5MNBLFsmdlu40--15" value="BCrystal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="392" y="240" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ocV6jF5MNBLFsmdlu40--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.138;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ocV6jF5MNBLFsmdlu40--11" target="ocV6jF5MNBLFsmdlu40--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocV6jF5MNBLFsmdlu40--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.313;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ocV6jF5MNBLFsmdlu40--15" target="ocV6jF5MNBLFsmdlu40--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocV6jF5MNBLFsmdlu40--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.617;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ocV6jF5MNBLFsmdlu40--13" target="ocV6jF5MNBLFsmdlu40--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocV6jF5MNBLFsmdlu40--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.821;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ocV6jF5MNBLFsmdlu40--14" target="ocV6jF5MNBLFsmdlu40--6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
