@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T14:23:08.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.2" etag="WRdQL8zrc0Ru5pR8HU-t" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T14:31:40.091Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="6GBnD33IMCgsQNcBABvR" version="24.6.2" type="github">
   <diagram name="Page-1" id="BI5JWG1uMbHf61hnUdrM">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jteI3i1hh8Ab2ZWnCAN9-2" target="jteI3i1hh8Ab2ZWnCAN9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jteI3i1hh8Ab2ZWnCAN9-2" target="jteI3i1hh8Ab2ZWnCAN9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jteI3i1hh8Ab2ZWnCAN9-2" target="jteI3i1hh8Ab2ZWnCAN9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-2" value="Customer Escalations" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-8" value="Drone not responding on map&#xa;Reason: Signal loss&#xa;Mitigation: Enhanced communication systems" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="700" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jteI3i1hh8Ab2ZWnCAN9-10" target="jteI3i1hh8Ab2ZWnCAN9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jteI3i1hh8Ab2ZWnCAN9-10" target="jteI3i1hh8Ab2ZWnCAN9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-10" value="Quality Issues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="390" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jteI3i1hh8Ab2ZWnCAN9-6" target="jteI3i1hh8Ab2ZWnCAN9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-6" value="Technical Issues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="390" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jteI3i1hh8Ab2ZWnCAN9-3" target="jteI3i1hh8Ab2ZWnCAN9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jteI3i1hh8Ab2ZWnCAN9-3" target="jteI3i1hh8Ab2ZWnCAN9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-3" value="Delivery Issues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="390" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-4" value="Not Delivered&#xa;Reason: Drone navigation error&#xa;Mitigation: Real-time monitoring and rerouting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="490" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-5" value="Partial Delivery (Food missing)&#xa;Reason: Loading error or theft&#xa;Mitigation: Secure loading practices, theft detection sensors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="490" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jteI3i1hh8Ab2ZWnCAN9-7" target="jteI3i1hh8Ab2ZWnCAN9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jteI3i1hh8Ab2ZWnCAN9-7" target="jteI3i1hh8Ab2ZWnCAN9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-7" value="Drone Malfunctions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="560" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-9" value="Drone crashed/lost&#xa;Reason: Technical failure or external interference&#xa;Mitigation: Robust drone design, emergency response protocols" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="700" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-11" value="Food not hot enough&#xa;Reason: Insufficient insulation&#xa;Mitigation: Improved thermal insulation materials" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="550" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jteI3i1hh8Ab2ZWnCAN9-12" value="Packaging tampered&#xa;Reason: Security breach&#xa;Mitigation: Tamper-evident packaging, security alarms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="550" width="260" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
