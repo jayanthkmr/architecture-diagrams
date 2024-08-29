@@ -139,6 +139,9 @@
         <mxCell id="OD9FtLQuHuhSTH7nscFG-37" value="Ingestion Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="90" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OD9FtLQuHuhSTH7nscFG-38" value="Lambda Architecture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
