@@ -31,7 +31,7 @@
         <mxCell id="TUoBiHnFGuiqf3j-x5mC-9" value="Local&lt;br&gt;Disk" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="430" y="460" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TUoBiHnFGuiqf3j-x5mC-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUoBiHnFGuiqf3j-x5mC-1" target="TUoBiHnFGuiqf3j-x5mC-2">
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-10" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startFill=0;" edge="1" parent="1" source="TUoBiHnFGuiqf3j-x5mC-1" target="TUoBiHnFGuiqf3j-x5mC-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="320" as="sourcePoint" />
             <mxPoint x="450" y="270" as="targetPoint" />
