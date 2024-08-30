@@ -79,6 +79,60 @@
             <mxPoint x="450" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="380" width="100" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TUoBiHnFGuiqf3j-x5mC-24">
+          <mxGeometry width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TUoBiHnFGuiqf3j-x5mC-24">
+          <mxGeometry x="10" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TUoBiHnFGuiqf3j-x5mC-24">
+          <mxGeometry x="40" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TUoBiHnFGuiqf3j-x5mC-24">
+          <mxGeometry x="70" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-23" value="Blocks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TUoBiHnFGuiqf3j-x5mC-24">
+          <mxGeometry x="20" y="26" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="230" y="380" width="100" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TUoBiHnFGuiqf3j-x5mC-25">
+          <mxGeometry width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TUoBiHnFGuiqf3j-x5mC-25">
+          <mxGeometry x="10" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TUoBiHnFGuiqf3j-x5mC-25">
+          <mxGeometry x="40" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TUoBiHnFGuiqf3j-x5mC-25">
+          <mxGeometry x="70" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-30" value="Blocks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TUoBiHnFGuiqf3j-x5mC-25">
+          <mxGeometry x="20" y="26" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="410" y="380" width="100" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TUoBiHnFGuiqf3j-x5mC-31">
+          <mxGeometry width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TUoBiHnFGuiqf3j-x5mC-31">
+          <mxGeometry x="10" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TUoBiHnFGuiqf3j-x5mC-31">
+          <mxGeometry x="40" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TUoBiHnFGuiqf3j-x5mC-31">
+          <mxGeometry x="70" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TUoBiHnFGuiqf3j-x5mC-36" value="Blocks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TUoBiHnFGuiqf3j-x5mC-31">
+          <mxGeometry x="20" y="26" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
