@@ -1,9 +1,65 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
-  <diagram name="Page-1" id="tGL8saA3K3Nmgf7LOVUf">
-    <mxGraphModel>
+  <diagram name="AIH System Architecture" id="tGL8saA3K3Nmgf7LOVUf">
+    <mxGraphModel dx="938" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EtHNVf8ZwvqS81K_nkDZ-2" value="Input Layer: Brain-Computer Interface (BCI)" style="shape=rectangle;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#007BFF;fillColor=#E9F7FE;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EtHNVf8ZwvqS81K_nkDZ-3" value="Signal Acquisition (MEG, NIR Sensors)" style="shape=rectangle;whiteSpace=wrap;html=1;fontSize=10;strokeColor=#A9D5FF;fillColor=#EAF6FF;" vertex="1" parent="EtHNVf8ZwvqS81K_nkDZ-2">
+          <mxGeometry x="15" y="70" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EtHNVf8ZwvqS81K_nkDZ-4" value="Processing Layer: Neural Mapping and Signal Interpretation" style="shape=rectangle;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#28A745;fillColor=#E6F5E6;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EtHNVf8ZwvqS81K_nkDZ-5" value="Neural Mapping Models (Deep Learning)" style="shape=rectangle;whiteSpace=wrap;html=1;fontSize=10;strokeColor=#84C784;fillColor=#F1FAF1;" vertex="1" parent="EtHNVf8ZwvqS81K_nkDZ-4">
+          <mxGeometry x="15" y="70" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EtHNVf8ZwvqS81K_nkDZ-6" value="Action Layer: LLM and Function Calling" style="shape=rectangle;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#FFC107;fillColor=#FFF7E6;" vertex="1" parent="1">
+          <mxGeometry x="610" y="130" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EtHNVf8ZwvqS81K_nkDZ-7" value="Function Calling API (IoT, Robotics)" style="shape=rectangle;whiteSpace=wrap;html=1;fontSize=10;strokeColor=#FFD54F;fillColor=#FFF9E1;" vertex="1" parent="EtHNVf8ZwvqS81K_nkDZ-6">
+          <mxGeometry x="15" y="66" width="220" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="EtHNVf8ZwvqS81K_nkDZ-8" value="Feedback Layer: Machine-to-Brain Communication" style="shape=rectangle;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#DC3545;fillColor=#FDE9EA;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EtHNVf8ZwvqS81K_nkDZ-9" value="Tactile Devices (Haptics, Neurofeedback)" style="shape=rectangle;whiteSpace=wrap;html=1;fontSize=10;strokeColor=#F18A92;fillColor=#FCE6E7;" vertex="1" parent="EtHNVf8ZwvqS81K_nkDZ-8">
+          <mxGeometry x="15" y="70" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EtHNVf8ZwvqS81K_nkDZ-10" value="Secure Communication Layer" style="shape=rectangle;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#6610F2;fillColor=#F0E9FC;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EtHNVf8ZwvqS81K_nkDZ-11" value="Encrypted Wireless Protocols" style="shape=rectangle;whiteSpace=wrap;html=1;fontSize=10;strokeColor=#B89DF5;fillColor=#F5F0FD;" vertex="1" parent="EtHNVf8ZwvqS81K_nkDZ-10">
+          <mxGeometry x="15" y="70" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EtHNVf8ZwvqS81K_nkDZ-12" value="Cloud and Edge Systems" style="shape=rectangle;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#17A2B8;fillColor=#E6F7FB;" vertex="1" parent="1">
+          <mxGeometry x="610" y="300" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EtHNVf8ZwvqS81K_nkDZ-13" value="Edge Nodes (Low-Latency Processing)" style="shape=rectangle;whiteSpace=wrap;html=1;fontSize=10;strokeColor=#71C2D9;fillColor=#EBF7FB;" vertex="1" parent="EtHNVf8ZwvqS81K_nkDZ-12">
+          <mxGeometry x="15" y="70" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EtHNVf8ZwvqS81K_nkDZ-14" style="edgeStyle=orthogonalEdgeStyle;strokeColor=black;" edge="1" parent="1" source="EtHNVf8ZwvqS81K_nkDZ-2" target="EtHNVf8ZwvqS81K_nkDZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EtHNVf8ZwvqS81K_nkDZ-15" style="edgeStyle=orthogonalEdgeStyle;strokeColor=black;" edge="1" parent="1" source="EtHNVf8ZwvqS81K_nkDZ-4" target="EtHNVf8ZwvqS81K_nkDZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EtHNVf8ZwvqS81K_nkDZ-16" style="edgeStyle=orthogonalEdgeStyle;strokeColor=black;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EtHNVf8ZwvqS81K_nkDZ-7" target="EtHNVf8ZwvqS81K_nkDZ-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="735" y="280" />
+              <mxPoint x="175" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtHNVf8ZwvqS81K_nkDZ-17" style="edgeStyle=orthogonalEdgeStyle;strokeColor=black;" edge="1" parent="1" source="EtHNVf8ZwvqS81K_nkDZ-8" target="EtHNVf8ZwvqS81K_nkDZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EtHNVf8ZwvqS81K_nkDZ-18" style="edgeStyle=orthogonalEdgeStyle;strokeColor=black;" edge="1" parent="1" source="EtHNVf8ZwvqS81K_nkDZ-10" target="EtHNVf8ZwvqS81K_nkDZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
